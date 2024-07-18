@@ -24,4 +24,7 @@ public class Car {
     @Column
     private String carType;
 
+    @Column
+    private Integer carRentalPrice;
+
 }
