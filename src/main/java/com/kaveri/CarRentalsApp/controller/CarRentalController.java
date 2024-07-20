@@ -16,12 +16,18 @@ import org.springframework.stereotype.Repository;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
+import java.awt.print.Book;
 import java.util.List;
 import java.util.Optional;
 
 @RestController
 public class CarRentalController {
 
+   /* @PostMapping("/booked")
+    public Booking booking(@){
+
+        return null;
+    }*/
 
 
 }
